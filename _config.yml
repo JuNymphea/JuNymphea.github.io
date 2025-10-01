@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "JuNymphea"
-description              : "I am a great Kirby!"
+description              : "Master student in Computational Linguistics"
 repository               : "junymphea/junymphea.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Zhuoxuan Ju"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Georgetown University"
-  location         : "Washington, America"
+  location         : "Washington, D.C., USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
