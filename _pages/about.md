@@ -61,3 +61,4 @@ Ruibo Ming, Jingwei Wu, Zhewei Huang, **Zhuoxuan Ju**, Jianming Hu, Lihui Peng, 
 
 # 💻 Internships
 - *2023.12 - 2024.05*, Stepfun, China.
+- *2021.09 - 2021.12*, Lenovo, China.
