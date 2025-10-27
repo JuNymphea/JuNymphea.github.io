@@ -28,7 +28,7 @@ Hi! My name is Zhuoxuan Ju and I'm currently master student in computational lin
 
 [**Code**](https://github.com/gucorpling/disrpt25-task) | [**Demo**](https://huggingface.co/spaces/JuNymphea/DeDisCo) | [**Poster**](https://github.com/JuNymphea/JuNymphea.github.io/blob/main/images/DeDisCo_Poster.pdf)
 </div>
-
+---
 <div class='paper-box-text' markdown="1">
 
 [UD-English-CHILDES: A Collected Resource of Gold and Silver Universal Dependencies Trees for Child Language Interactions](https://aclanthology.org/2025.udw-1.6/)
@@ -37,7 +37,7 @@ Xiulin Yang, **Zhuoxuan Ju**, Lanni Bu, Zoey Liu, Nathan Schneider
 
 [**Resources**](https://github.com/UniversalDependencies/UD_English-CHILDES.git)
 </div>
-
+---
 <div class='paper-box-text' markdown="1">
 
 [A Survey on Future Frame Synthesis: Bridging Deterministic and Generative Approaches](https://arxiv.org/abs/2401.14718)
@@ -45,7 +45,7 @@ Xiulin Yang, **Zhuoxuan Ju**, Lanni Bu, Zoey Liu, Nathan Schneider
 Ruibo Ming, Zhewei Huang, **Zhuoxuan Ju**, Jianming Hu, Lihui Peng, Shuchang Zhou
 
 </div>
-
+---
 <div class='paper-box-text' markdown="1">
 
 [ARCON: Advancing Auto-Regressive Continuation for Driving Videos](https://arxiv.org/abs/2412.03758)
